@@ -11,7 +11,7 @@ Please download the YOLOv3 Model [here](https://docs-assets.developer.apple.com/
 
 ### If you have any suggestion/feedbacks, I'm looking forward to hear your opinion!
 
-[LinkedIn](https://docs-assets.developer.apple.com/coreml/models/Image/ObjectDetection/YOLOv3/YOLOv3.mlmodel)
+[LinkedIn](https://www.linkedin.com/in/gabriel-rodrigues-faria/)
 
 Keep Coding,
 
