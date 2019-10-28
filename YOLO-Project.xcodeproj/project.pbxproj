@@ -60,11 +60,10 @@
 			children = (
 				C068DC2B2364F5630038E437 /* App */,
 				C068DC292364F53A0038E437 /* Models */,
-				C068DC102363CD280038E437 /* Main.storyboard */,
+				C092FFBE2367948400EE4939 /* View */,
 				C068DC0E2363CD280038E437 /* ViewController.swift */,
 				C068DC132363CD2A0038E437 /* Assets.xcassets */,
 				C068DC182363CD2A0038E437 /* Info.plist */,
-				C068DC232363EF180038E437 /* BoxesView.swift */,
 			);
 			path = "YOLO-Project";
 			sourceTree = "<group>";
@@ -84,6 +83,15 @@
 				C068DC0C2363CD280038E437 /* SceneDelegate.swift */,
 			);
 			path = App;
+			sourceTree = "<group>";
+		};
+		C092FFBE2367948400EE4939 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				C068DC232363EF180038E437 /* BoxesView.swift */,
+				C068DC102363CD280038E437 /* Main.storyboard */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
