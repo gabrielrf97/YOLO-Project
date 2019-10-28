@@ -1,4 +1,4 @@
-<img src="https://imgur.com/zuvfPRT" width="100" height="100" float="right">
+<img src="https://imgur.com/zuvfPRT.jpg" width="100" height="100" float="right">
 
 # YOLO-Project
 This app detects objects in a live using YOLOv3.mlmodel
