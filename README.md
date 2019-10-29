@@ -1,7 +1,7 @@
 <img src="https://imgur.com/zuvfPRT.jpg" width="100" height="100" float="right">
 
 # YOLO-Project
-This app detects objects in a live using YOLOv3.mlmodel
+This app detects objects in a live view using YOLOv3.mlmodel
 
 ## Some Cool details about this project:
 - It was my first object detection app using CoreML 😁
